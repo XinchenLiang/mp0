@@ -36,3 +36,21 @@ header{
     justify-content:center;
     align-items: center;
 }
+card {
+    background: #f8f9fa;
+    border-radius: 15px;
+    padding:25px;
+    box-shadow: 0 5px rgba(0,0,0,0.05);
+}
+.card h2 {
+    color: #3498db;
+    margin-bottom:15px;
+    padding-bottom:10px;
+}
+
+.card p{
+    text-align: center;
+    padding:20px;
+    background: #f1f8ff;
+    color: #7f8c8d;
+}
